@@ -1,6 +1,6 @@
 # AI Website Copy Generator for Local Businesses
 
-This project uses structured prompts to generate high‑quality, conversion‑focused website copy for local businesses.
+This project uses structured prompts to generate high-quality, conversion-focused website copy for local businesses.
 
 ## Features
 - Homepage copy with clear value proposition
@@ -16,4 +16,3 @@ ChatGPT / Claude / Gemini / Lovable / Framer AI
 2. Use prompts in `/prompts`
 3. Generate copy
 4. Paste into website builder
-
