@@ -1,18 +1,29 @@
 # AI Website Copy Generator for Local Businesses
 
-This project uses structured prompts to generate high-quality, conversion-focused website copy for local businesses.
+## 📌 Project Overview
+This project demonstrates how prompt engineering and AI tools can be used to generate high-quality, conversion-focused website copy for local businesses.
 
-## Features
-- Homepage copy with clear value proposition
-- Service page descriptions
-- Strong CTAs (contact, booking, enquiry)
-- Tone adaptation for different local businesses
+Instead of producing generic AI content, this system uses structured, reusable prompts to create website-ready copy similar to what professional web agencies deliver to clients.
 
-## Tools
-ChatGPT / Claude / Gemini / Lovable / Framer AI
+---
 
-## How to Use
-1. Pick a business type
-2. Use prompts in `/prompts`
-3. Generate copy
-4. Paste into website builder
+## 🏢 Business Chosen
+**Glow & Grace Salon – Bangalore**
+
+A local unisex salon offering hair, skin, grooming, and bridal beauty services.
+
+---
+
+## 🎯 Objective
+- Generate homepage copy with a clear value proposition
+- Create service page descriptions tailored to the business type
+- Write strong call-to-action (CTA) sections
+- Adapt tone for different local businesses
+- Produce content ready for real-world websites
+
+---
+
+## 🛠 Tools Used
+- ChatGPT
+- GitHub
+
