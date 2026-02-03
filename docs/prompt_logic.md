@@ -1,8 +1,10 @@
-# Prompt Logic
+  # Prompt Engineering Logic
 
-Each prompt follows:
-1. Context setting
-2. Business details input
-3. Clear output instructions
+This project uses structured prompt engineering to automate website copy generation.
 
-This ensures consistent, reusable results.
+Prompt Structure:
+1. Role assignment to AI
+2. Clear business inputs
+3. Defined output format
+
+This approach ensures consistency, clarity, and professional-quality results across different business types.
